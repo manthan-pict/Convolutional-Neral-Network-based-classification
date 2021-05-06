@@ -1,4 +1,4 @@
-# Convolutional-Neral-Network-based-classification
+# Convolutional-Neural-Network-based-classification
 In this assignment we have implemented Deep Neural network to algorithm to identify the number written on the different house plate pictures.
 
 Dataset Used – 
